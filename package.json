@@ -9,7 +9,7 @@
   },
   "license": "BSD",
   "dependencies": {
-    "bcrypt": "~0.8",
+    "bcrypt": "~5.0.0",
     "body-parser": "~1.12.4",
     "deepcopy": "^0.5.0",
     "express": "~4.2.x",
